@@ -1,0 +1,7 @@
+[project]
+name = "seerah-py-khilafah-timeline"
+version = "1.0.0"
+description = "Rashidun Caliphate (11-40 AH) Chronological Event & Diwan Indexer (الخط الزمني للخلافة الراشدة والفتوحات الإسلامية)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
